@@ -1,12 +1,12 @@
 
-# @lessondesk/babel-preset
-[![package version](https://img.shields.io/npm/v/@lessondesk/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@lessondesk/babel-preset)
-[![package downloads](https://img.shields.io/npm/dm/@lessondesk/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@lessondesk/babel-preset)
+# @radio-retail/babel-preset
+[![package version](https://img.shields.io/npm/v/@radio-retail/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@radio-retail/babel-preset)
+[![package downloads](https://img.shields.io/npm/dm/@radio-retail/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@radio-retail/babel-preset)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![package license](https://img.shields.io/npm/l/@lessondesk/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@lessondesk/babel-preset)
+[![package license](https://img.shields.io/npm/l/@radio-retail/babel-preset.svg?style=flat-square)](https://npmjs.org/package/@radio-retail/babel-preset)
 [![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> [Babel](https://babeljs.io/) presets for [Lesson Desk](https://www.lessondesk.com/)
+> [Babel](https://babeljs.io/) presets for [Radio Retail](http://www.zapop.com/service/radioretail/)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ Add the following to your `.babelrc`
 
 ```json
 {
-  "presets": ["@lessondesk/babel-preset"]
+  "presets": ["@radio-retail/babel-preset"]
 }
 ```
 
@@ -30,9 +30,9 @@ Add the following to your `.babelrc`
 This project uses [node](https://nodejs.org) and [npm](https://www.npmjs.com). First, install [Babel](https://babeljs.io/), then:
 
 ```sh
-$ npm install @lessondesk/babel-preset
+$ npm install @radio-retail/babel-preset
 $ # OR
-$ yarn add @lessondesk/babel-preset
+$ yarn add @radio-retail/babel-preset
 ```
 
 ## Contribute

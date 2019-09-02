@@ -20,6 +20,7 @@ module.exports = (context, { modules = false, targets = { ie: 11 }, debug = fals
     ],
     require.resolve('@babel/plugin-syntax-dynamic-import'),
     require.resolve('@babel/plugin-transform-runtime'),
+    require.resolve("@babel/plugin-proposal-optional-chaining")
   ],
   env: {
     production: {
